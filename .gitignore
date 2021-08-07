@@ -1,0 +1,5 @@
+.jovianrc
+__pycache__
+env
+.idea
+.ipynb_checkpoints
